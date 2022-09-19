@@ -2,33 +2,22 @@
 
 ## This is my first attempt at creating a webpage using HTML, JavaScript, and CSS.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I started this project on August 6th, then abruptly forgot about it until 2 weeks before class began. In the last 2 weeks, I have learned a lot, and am hungry to learn even more. So far, HTML makes sense, JawaScript excites me, and CSS causes me dread.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+My motivation for this project and pushing through the struggles I have is the inspiration from my father, who has been a programmer for over 20 years, and the hope that a career in this field will provide a much happier life for me and my girlfriend.
 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+This project can provide some quick insight on the core beginning of my journey into coding, and remind myself of those basics that are so essential in this field. I know I have a terrible memory, so even just the notes under each coding language reminding me of the commands to use will prove useful.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
